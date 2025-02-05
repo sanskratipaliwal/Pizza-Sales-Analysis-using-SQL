@@ -1,1 +1,1 @@
-Developed a MySQL database to manage pizza sales data. Used JOINs, subqueries, and advanced SQL functions like cumulative sums to analyze sales by product, time period, and customer demographics. 
+Developed a MySQL database to manage pizza sales data. Used JOINs, subqueries, and advanced SQL functions like cumulative sums to analyze sales by product, time period, and customer demographics. Documented the analysis process and insights in a detailed report with data-driven recommendations to boost revenue."
